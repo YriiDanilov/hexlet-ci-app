@@ -1,0 +1,13 @@
+name: Testing workflow
+on: push
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check
+        run: actions/checkout@v3
+      - name: activate node
+        run: actions/node@v3
+      - run: make install
+      - run: make test
+      - run: make lint
