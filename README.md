@@ -1,4 +1,4 @@
-![Testing workflow](https://github.com/YriiDanilov/hexlet-ci-app/blob/main/.github/workflows/main.yml/badge.svg)
+[![Action Status](https://github.com/YriiDanilov/hexlet-ci-app/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/YriiDanilov/hexlet-ci-app/actions)
 
 # Example app for CI Hexlet course
 
