@@ -1,4 +1,4 @@
- ![main.yml](https://github.com/YriiDanilov/hexlet-ci-app/blob/main/.github/workflows/main.yml/badge.svg)
+ ![Testing workflow](https://github.com/YriiDanilov/hexlet-ci-app/blob/main/.github/workflows/main.yml/badge.svg)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
